@@ -2,5 +2,4 @@
 
 ### I'm a frontend web developer.
 
-
 My skills and tools
